@@ -6,7 +6,7 @@ Web Developer and Data Analyst
 
 I'm passionate about data and how to create value from it, have been working with eSports teams as a data analyst for 3 years now, passionate about learning new technologies to create value everywhere I have the pleasure to work at.
 
-* 🌍  I'm based in España
+* 🌍  I'm based in Spain
 * 🖥️  See my portfolio at [carloscanut.me](http://www.carloscanut.me/)
 * ✉️  You can contact me at [carloscanut@nextep.uk](mailto:carloscanut@nextep.uk)
 * 🧠  I'm learning React, Vue and Data Science
@@ -37,8 +37,3 @@ src="https://img.shields.io/github/followers/CarlosCanut?logo=github&style=for-t
 
 <p align="left"> <a href="https://discord.com/users/sauce#5874" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/CarlosCanut" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/canut__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/carlos-mª-canut-domínguez-06b322181/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@canutdominguez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/tw_sauce" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/CarlosCanut"><img src="https://github-readme-stats.vercel.app/api?username=CarlosCanut&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CarlosCanut's GitHub stats" /></a>
