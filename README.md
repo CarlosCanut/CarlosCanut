@@ -8,7 +8,7 @@ I'm passionate about data and how to create value from it, have been working wit
 
 * 🌍  I'm based in Spain
 * 🖥️  See my portfolio at [carloscanut.me](http://www.carloscanut.me/)
-* ✉️  You can contact me at [carloscanut@nextep.uk](mailto:carloscanut@nextep.uk)
+* ✉️  You can contact me at [carloscanutdominguez@gmail.com](mailto:carloscanutdominguez@gmail.com)
 * 🧠  I'm learning React, Vue and Data Science
 
 <a href="https://www.twitter.com/tw_sauce" target="_blank" rel="noreferrer"><img
